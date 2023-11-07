@@ -4,4 +4,4 @@ Server/obj/*
 Server/bin/*
 Shared/obj/*
 Shared/bin/*
-.vs/
+.vs/*
